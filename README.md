@@ -1,3 +1,5 @@
+Before running this program please run ``npm install`` for first time usage
+
 This program is to use for fetching list of wallet and the balance for specified time.
 
 Usage:
